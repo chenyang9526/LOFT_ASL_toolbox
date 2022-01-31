@@ -1,0 +1,15 @@
+{"SPM_path":"/Users/czhao/Documents/Chenyang/matlab_packages/spm12/spm12",
+"NIFTI_path":"/Users/czhao/Documents/Chenyang/matlab_packages/NIfTI_20140122",
+"CBF_toolbox_path":"/Users/czhao/Desktop/LOFT_ASL_toolbox",
+"FSL_path":"/usr/local/fsl",
+"data_path":"/Users/czhao/Desktop/Population_based",
+"subject_ID": "sub-PopulationAverage",
+"first_image_type":"control",
+"T1w_flag":1,
+"frame_flag":0,
+"perfusion_flag":0,
+"BOLD_flag":0,
+"CBF_flag":1,
+"mean_flag":1,
+"PVC_flag":1}
+
